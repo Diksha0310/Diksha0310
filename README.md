@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha0310&label=Profile%20views&color=0e75b6&style=flat" alt="diksha0310" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **dtdiksha03@gmail.com**
 
