@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **dtdiksha03@gmail.com**
+- 📫 How to reach me **diksha.tiwari.it@gmail.com**
 
 - ⚡ Fun fact **I am introvert👩‍💻**
 
